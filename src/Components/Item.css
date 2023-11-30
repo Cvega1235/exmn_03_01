@@ -1,0 +1,19 @@
+.cont {
+  display: flex;
+  border-radius: 8px;
+  background: var(--platform-aliases-shape-secundria, #29292e);
+  justify-content: space-around;
+  margin-bottom: 10px;
+}
+.text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-evenly;
+}
+h4 {
+  margin: 0px;
+}
+p {
+  margin: 0px;
+}
